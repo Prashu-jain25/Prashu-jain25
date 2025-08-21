@@ -72,9 +72,9 @@
 ### 🐍 Snake Contribution Graph  
 
 ![snake gif](https://github.com/Prashu-jain25/Prashu-jain25/blob/output/github-contribution-grid-snake.svg)
--->
----
 
+---
+-->
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://prashu-jain-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
