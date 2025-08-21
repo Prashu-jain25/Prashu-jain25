@@ -19,11 +19,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Software Developer at **Seequenze Technologies Pvt Ltd**  
-- ⚡ Backend-focused: **Java, Spring Boot, Python, Django, Flask**  
-- 💾 Databases & Tools: **MySQL, MongoDB, Redis, Kafka**  
-- ☁️ Cloud & DevOps: **AWS, Docker, Kubernetes, CI/CD**  
-- 🎯 Interested in **System Design, Distributed Systems, and Open Source**  
+- 🔭 Software Developer at **Seequenze Technologies Pvt Ltd**      
+- 🎯 Interested in **Data Structures and Algorithms, Object-Oriented Programming**  
 
 ---  
 
