@@ -19,8 +19,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Software Developer at **Seequenze Technologies Pvt Ltd**      
-- 🎯 Interested in **Data Structures and Algorithms, Object-Oriented Programming**  
+-  Software Developer at **Seequenze Technologies Pvt Ltd**      
+-  Interested in **Data Structures and Algorithms, Object-Oriented Programming**  
 
 ---  
 
@@ -52,10 +52,10 @@
 ---
 
 ### 🏆 Achievements  
-- 🥇 **6⭐ Problem Solving @ HackerRank**  
-- 🌍 **Global Rank 39/1745** – Hack the Interview II  
-- 🥈 **2nd Place** – CookWithCode (University Coding Contest)  
-- 👨‍🏫 Coordinator & Problem Setter – *CodeBattle (National-Level)*  
+-  **6⭐ Problem Solving @ HackerRank**  
+-  **Global Rank 39/1745** – Hack the Interview II  
+-  **2nd Place** – CookWithCode (University Coding Contest)  
+-  Coordinator & Problem Setter – *CodeBattle (National-Level)*  
 
 ---
 
