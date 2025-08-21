@@ -68,11 +68,11 @@
 </p>
 
 ---
-
+<!--
 ### 🐍 Snake Contribution Graph  
 
 ![snake gif](https://github.com/Prashu-jain25/Prashu-jain25/blob/output/github-contribution-grid-snake.svg)
-
+-->
 ---
 
 ### 🌐 Connect with Me  
