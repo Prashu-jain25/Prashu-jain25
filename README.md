@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Priyanshu Jain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Backend+Engineer;Java+%7C+Spring+Boot+%7C+Python;Building+Scalable+Systems;Problem+Solver+%7C+6%E2%AD%90+HackerRank)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Backend+Engineer;Java+%7C+Spring+Boot+%7C+Python;Building+Scalable+Systems;Problem+Solver+%7C+6%E2%AD%90+HackerRank)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://prashu-jain-portfolio.netlify.app/">Portfolio</a> •
